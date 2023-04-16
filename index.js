@@ -4,3 +4,5 @@ let Hello = () => {
     alert("Hello World!");
 
 }
+console.log('Hello');
+console.log('World');
