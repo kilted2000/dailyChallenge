@@ -7,4 +7,4 @@ let Hello = () => {
 console.log('Hello');
 console.log('World');
 console.log('!');
-console.log('Tapadh Leat');
+console.log('Tapadh Leibh');
