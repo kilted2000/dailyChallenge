@@ -19,3 +19,6 @@ p{
     background-color: mediumblue;
     color: yellowgreen;
 }
+div{
+    display: flex;
+}
