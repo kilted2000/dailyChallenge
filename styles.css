@@ -23,5 +23,5 @@ div{
     display: flex;
 }
 .forms{
-    grid-template-columns: min-content;
+    grid-template-columns: max-content;
 }
