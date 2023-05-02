@@ -20,7 +20,7 @@ p{
     color: yellowgreen;
 }
 div{
-    display: flex;
+    display: -webkit-box;
 }
 .forms{
     grid-template-columns: max-content;
