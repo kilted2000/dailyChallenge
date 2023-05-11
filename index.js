@@ -6,6 +6,6 @@ let Hello = () => {
 }
 console.log('Hallo');
 console.log('World');
-console.log('?');
+console.log('!');
 console.log('Tapadh Leibh');
 console.log('Cait a bheil Thu?');
