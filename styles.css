@@ -6,6 +6,7 @@ body{
 #btn{
     color: goldenrod;
     background-color: lightsalmon;
+    width: 100%;
 }
 h1{
     color: azure;
